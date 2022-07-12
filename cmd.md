@@ -15,3 +15,8 @@ cd C:\Users\Саша\Desktop\Обучение Элина\Контроль вер
 ```sh
 mkdir NewFolder
 ```
+
+## Удалить файл
+```sh
+del Filename
+```
